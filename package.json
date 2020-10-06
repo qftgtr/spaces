@@ -1,0 +1,9 @@
+{
+  "name": "@bonustrack/spaces",
+  "version": "0.1.0",
+  "repository": "qftgtr/spaces",
+  "license": "MIT",
+  "files": [
+    "spaces"
+  ]
+}
