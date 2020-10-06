@@ -1,14 +1,15 @@
 {
   "key": "moonswap",
   "name": "MoonSwap",
+  "symbol": "MOON",
   "chainId": 1,
   "decimals": 18,
-  "symbol": "MOON",
   "defaultView": "core",
-  "address": "0x34870322f473830d28d28bef7f1d4178edf832d8",
-  "token": "0x34870322f473830d28d28bef7f1d4178edf832d8",
+  "address": "0xC65E282a82b5F0b02Dec20d32DCf12A89f5580bc",
+  "token": "0xC65E282a82b5F0b02Dec20d32DCf12A89f5580bc",
   "core": [
-    "0xaE0091bD0689c32c38e062C6956c2240eC658bE4"
+    "0xeF71a18bb044d98A861e7Ee9d6ff9262Fff32f12",
+    "0xfb8AC8edB1F67271DcceE572c904C9cA7d90a57E"
   ],
   "min": 0,
   "invalid": []
